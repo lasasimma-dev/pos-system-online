@@ -13,8 +13,8 @@ If you don’t have **pnpm** installed, you can install it globally using the fo
 
 ```bash
 npm install -g pnpm
-git clone <repository-url>
-cd <your-project-directory>
+
 pnpm install
+
 pnpm run dev
 
